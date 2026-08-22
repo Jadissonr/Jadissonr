@@ -10,7 +10,7 @@ Técnico em Redes de Computadores em transição de carreira para <strong>Cibers
 
 - 🔄 Preparando a prova **AWS Cloud Practitioner (CLF-C02)** — agendada para 31/08/2026
 - 🛡️ Praticando triagem de alerta SIEM no **LetsDefend** (caminho SOC Analyst)
-- 🎯 Trilha de certificações rumo a Blue Team + AWS (CompTIA Security+, AWS Solutions Architect, AWS Security Specialty)
+- 🎯 Trilha de certificações rumo a Blue Team + AWS (CompTIA Security+, AWS Security Specialty)
 
 ### 🏆 Certificações
 
