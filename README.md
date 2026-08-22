@@ -10,7 +10,7 @@ Técnico em Redes de Computadores em transição de carreira para <strong>Cibers
 
 - 🔄 Preparando a prova **AWS Cloud Practitioner (CLF-C02)** — agendada para 31/08/2026
 - 🛡️ Praticando triagem de alerta SIEM no **LetsDefend** (caminho SOC Analyst)
-- 🎯 Trilha de certificações rumo a Blue Team + AWS (CompTIA Security+, AWS Security Specialty)
+- 🎯 Trilha de certificações rumo a Blue Team + AWS (CompTIA Security+, AWS Solutions Architect, AWS Security Specialty)
 
 ### 🏆 Certificações
 
@@ -31,10 +31,16 @@ Técnico em Redes de Computadores em transição de carreira para <strong>Cibers
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Nmap-black?style=flat&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<br/>
+<img src="https://img.shields.io/badge/SIEM-2D2D2D?style=flat" alt="SIEM"/>
+<img src="https://img.shields.io/badge/EDR-2D2D2D?style=flat" alt="EDR"/>
+<img src="https://img.shields.io/badge/SOAR-2D2D2D?style=flat" alt="SOAR"/>
 </p>
 
 ### 🎮 Um pouco fora do técnico
